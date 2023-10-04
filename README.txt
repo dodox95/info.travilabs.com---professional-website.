@@ -1,0 +1,1 @@
+npm run dev <-- THIS ONE STARTS
